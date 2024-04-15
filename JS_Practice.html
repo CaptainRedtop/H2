@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hello World</title>
+  <style>
+    body {
+      background-color: lightgrey;
+      text-align: center;
+      padding: 30px;
+    }
+  </style>
+</head>
+<body>
+
+<h2>JavaScript øvelse.</h2>
+<p title="Hello World", id="demo">We can change this text to say: "Hello World!",
+<br>or you can hover over to se a tooltip.</p>
+
+<button type="button" onclick="changeText()">Change Text</button>
+<button type="button" onclick="alertBox()">Alert me</button>
+
+<script>
+function changeText() {
+  document.getElementById("demo").innerHTML = "Hello World!";
+}
+</script>
+<script>
+function alertBox() {
+  alert("Hello World!");
+}
+</script>
+
+</body>
+</html>
+
+
