@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Music Instruments</title>
+<body>
+
+<h2>Music Instruments</h2>
+
+<script>
+// Classes
+class Instrument {
+  constructor(name, soundFile) {
+    this.name = name;
+    this.soundFile = soundFile;
+  }
+
+  playSound() {
+    // Function for playing audio
+    console.log(`Afspiller lyd for ${this.name}`);
+  }
+}
+
+class Stringed extends Instrument {
+  constructor(name, soundFile, numberOfStrings) {
+    super(name, soundFile);
+    this.numberOfStrings = numberOfStrings;
+  }
+}
+
+class Saxophone extends Instrument {
+  constructor(name, soundFile, material) {
+    super(name, soundFile);
+    this.material = material;
+  }
+}
+
+class Flute extends Instrument {
+  constructor(name, soundFile, holes, material) {
+    super(name, soundFile);
+    this.holes = holes;
+    this.material = material;
+  }
+}
+
+//Make instruments
+let flute = new Flute("Blokfløjte", "Flute.mp3", 7, "wood");
+
+// Loop through instruments and write properties 
+
+Instrument.forEach
+
+/*Instrument.forEach(Instrument => {
+  console.log(`Instrument: ${Instrument.name}`);*/
+  
+  // Make button for playing audio
+  const button = document.createElement("button");
+  button.textContent = `Afspil lyd for ${Flute.name}`;
+  button.addEventListener("click", () => {
+    Flute.playSound();
+  });
+  document.body.appendChild(button);
+});
+</script>
+
+</body>
+</html>
