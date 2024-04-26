@@ -3,7 +3,7 @@ USE Bogreden;
 
 -- Creating a user for Kunde;
 CREATE USER IF NOT exists Kunde identified by 'AmazingPassword';
-GRANT select, insert, update ON *.* TO Kunde;
+GRANT select ON *.* TO Kunde;
 
 -- Creating Tables:
 CREATE TABLE Cities (
