@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Threading_Dag1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c687aa03834a762db96abc6beb5639d5c017431")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3267242e046c67861941b89070c62bd28a399786")]
 [assembly: System.Reflection.AssemblyProductAttribute("Threading_Dag1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Threading_Dag1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

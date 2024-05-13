@@ -18,11 +18,13 @@ namespace Threading_Dag1
             Practice1 practice1 = new Practice1();
             Practice2 practice2 = new Practice2();
             Assignment3 assignment3 = new Assignment3();
+            Assignment4 assignment4 = new Assignment4();
 
             //practice0.Main();
             //practice1.Main();
             //practice2.Main();
-            assignment3.Main();
+            //assignment3.Main();
+            assignment4.Main();
         }
     }
 }

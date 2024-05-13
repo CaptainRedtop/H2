@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klich\\source\\repos\\CaptainRedtop\\H2\\Threading_Dag1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A707EE-1BEA-4839-832C-7F7D21B15D60}|Threading_Dag1\\Threading_Dag1.csproj|c:\\users\\klich\\source\\repos\\captainredtop\\h2\\threading_dag1\\threading_dag1\\assignments\\assignment4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A707EE-1BEA-4839-832C-7F7D21B15D60}|Threading_Dag1\\Threading_Dag1.csproj|solutionrelative:threading_dag1\\assignments\\assignment4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A707EE-1BEA-4839-832C-7F7D21B15D60}|Threading_Dag1\\Threading_Dag1.csproj|c:\\users\\klich\\source\\repos\\captainredtop\\h2\\threading_dag1\\threading_dag1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A707EE-1BEA-4839-832C-7F7D21B15D60}|Threading_Dag1\\Threading_Dag1.csproj|solutionrelative:threading_dag1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A707EE-1BEA-4839-832C-7F7D21B15D60}|Threading_Dag1\\Threading_Dag1.csproj|c:\\users\\klich\\source\\repos\\captainredtop\\h2\\threading_dag1\\threading_dag1\\assignments\\assignment3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A707EE-1BEA-4839-832C-7F7D21B15D60}|Threading_Dag1\\Threading_Dag1.csproj|solutionrelative:threading_dag1\\assignments\\assignment3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A707EE-1BEA-4839-832C-7F7D21B15D60}|Threading_Dag1\\Threading_Dag1.csproj|c:\\users\\klich\\source\\repos\\captainredtop\\h2\\threading_dag1\\threading_dag1\\practice\\practice2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A707EE-1BEA-4839-832C-7F7D21B15D60}|Threading_Dag1\\Threading_Dag1.csproj|solutionrelative:threading_dag1\\practice\\practice2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A707EE-1BEA-4839-832C-7F7D21B15D60}|Threading_Dag1\\Threading_Dag1.csproj|c:\\users\\klich\\source\\repos\\captainredtop\\h2\\threading_dag1\\threading_dag1\\practice\\practice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A707EE-1BEA-4839-832C-7F7D21B15D60}|Threading_Dag1\\Threading_Dag1.csproj|solutionrelative:threading_dag1\\practice\\practice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A707EE-1BEA-4839-832C-7F7D21B15D60}|Threading_Dag1\\Threading_Dag1.csproj|c:\\users\\klich\\source\\repos\\captainredtop\\h2\\threading_dag1\\threading_dag1\\practice\\practice0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A707EE-1BEA-4839-832C-7F7D21B15D60}|Threading_Dag1\\Threading_Dag1.csproj|solutionrelative:threading_dag1\\practice\\practice0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment3.cs",
+              "DocumentMoniker": "C:\\Users\\klich\\source\\repos\\CaptainRedtop\\H2\\Threading_Dag1\\Threading_Dag1\\Assignments\\Assignment3.cs",
+              "RelativeDocumentMoniker": "Threading_Dag1\\Assignments\\Assignment3.cs",
+              "ToolTip": "C:\\Users\\klich\\source\\repos\\CaptainRedtop\\H2\\Threading_Dag1\\Threading_Dag1\\Assignments\\Assignment3.cs",
+              "RelativeToolTip": "Threading_Dag1\\Assignments\\Assignment3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:09:58.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Practice2.cs",
+              "DocumentMoniker": "C:\\Users\\klich\\source\\repos\\CaptainRedtop\\H2\\Threading_Dag1\\Threading_Dag1\\Practice\\Practice2.cs",
+              "RelativeDocumentMoniker": "Threading_Dag1\\Practice\\Practice2.cs",
+              "ToolTip": "C:\\Users\\klich\\source\\repos\\CaptainRedtop\\H2\\Threading_Dag1\\Threading_Dag1\\Practice\\Practice2.cs",
+              "RelativeToolTip": "Threading_Dag1\\Practice\\Practice2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:09:58.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\klich\\source\\repos\\CaptainRedtop\\H2\\Threading_Dag1\\Threading_Dag1\\Program.cs",
+              "RelativeDocumentMoniker": "Threading_Dag1\\Program.cs",
+              "ToolTip": "C:\\Users\\klich\\source\\repos\\CaptainRedtop\\H2\\Threading_Dag1\\Threading_Dag1\\Program.cs",
+              "RelativeToolTip": "Threading_Dag1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:09:58.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assignment4.cs",
+              "DocumentMoniker": "C:\\Users\\klich\\source\\repos\\CaptainRedtop\\H2\\Threading_Dag1\\Threading_Dag1\\Assignments\\Assignment4.cs",
+              "RelativeDocumentMoniker": "Threading_Dag1\\Assignments\\Assignment4.cs",
+              "ToolTip": "C:\\Users\\klich\\source\\repos\\CaptainRedtop\\H2\\Threading_Dag1\\Threading_Dag1\\Assignments\\Assignment4.cs*",
+              "RelativeToolTip": "Threading_Dag1\\Assignments\\Assignment4.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:09:58.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Practice0.cs",
+              "DocumentMoniker": "C:\\Users\\klich\\source\\repos\\CaptainRedtop\\H2\\Threading_Dag1\\Threading_Dag1\\Practice\\Practice0.cs",
+              "RelativeDocumentMoniker": "Threading_Dag1\\Practice\\Practice0.cs",
+              "ToolTip": "C:\\Users\\klich\\source\\repos\\CaptainRedtop\\H2\\Threading_Dag1\\Threading_Dag1\\Practice\\Practice0.cs",
+              "RelativeToolTip": "Threading_Dag1\\Practice\\Practice0.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:09:58.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Practice1.cs",
+              "DocumentMoniker": "C:\\Users\\klich\\source\\repos\\CaptainRedtop\\H2\\Threading_Dag1\\Threading_Dag1\\Practice\\Practice1.cs",
+              "RelativeDocumentMoniker": "Threading_Dag1\\Practice\\Practice1.cs",
+              "ToolTip": "C:\\Users\\klich\\source\\repos\\CaptainRedtop\\H2\\Threading_Dag1\\Threading_Dag1\\Practice\\Practice1.cs",
+              "RelativeToolTip": "Threading_Dag1\\Practice\\Practice1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:09:58.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
